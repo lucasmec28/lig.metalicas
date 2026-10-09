@@ -1,0 +1,26 @@
+{
+  "versao": "0.1.0",
+  "estado": "pré-verificação técnica",
+  "python": "3.12.14",
+  "dependencias": {
+    "streamlit": "1.65.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "python-docx": "1.2.0",
+    "pytest": "9.1.1"
+  },
+  "comparacoes_pontuais": 7,
+  "comparacoes_atendidas": 7,
+  "perfis_por_familia": {
+    "W": 99,
+    "HP": 8,
+    "CS": 144,
+    "CVS": 135,
+    "VS": 174
+  },
+  "word": "2 documentos compactos, 4 páginas cada, revisão visual concluída",
+  "interface": "Streamlit AppTest; captura em navegador bloqueada pelo ambiente",
+  "publicacao": "não realizada",
+  "testes_automatizados": 42,
+  "testes_aprovados": 42
+}
